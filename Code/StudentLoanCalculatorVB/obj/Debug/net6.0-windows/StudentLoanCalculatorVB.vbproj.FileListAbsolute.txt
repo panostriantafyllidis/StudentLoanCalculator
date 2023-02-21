@@ -1,0 +1,38 @@
+C:\Users\takis\OneDrive\Documents\My_Coding_Projects\LearningCPP\StudentLoanCalculatorVB\bin\Debug\net6.0-windows\StudentLoanCalculatorVB.exe
+C:\Users\takis\OneDrive\Documents\My_Coding_Projects\LearningCPP\StudentLoanCalculatorVB\bin\Debug\net6.0-windows\StudentLoanCalculatorVB.deps.json
+C:\Users\takis\OneDrive\Documents\My_Coding_Projects\LearningCPP\StudentLoanCalculatorVB\bin\Debug\net6.0-windows\StudentLoanCalculatorVB.runtimeconfig.json
+C:\Users\takis\OneDrive\Documents\My_Coding_Projects\LearningCPP\StudentLoanCalculatorVB\bin\Debug\net6.0-windows\StudentLoanCalculatorVB.dll
+C:\Users\takis\OneDrive\Documents\My_Coding_Projects\LearningCPP\StudentLoanCalculatorVB\bin\Debug\net6.0-windows\StudentLoanCalculatorVB.pdb
+C:\Users\takis\OneDrive\Documents\My_Coding_Projects\LearningCPP\StudentLoanCalculatorVB\obj\Debug\net6.0-windows\StudentLoanCalculatorVB.vbproj.AssemblyReference.cache
+C:\Users\takis\OneDrive\Documents\My_Coding_Projects\LearningCPP\StudentLoanCalculatorVB\obj\Debug\net6.0-windows\StudentLoanCalculatorVB.Form1.resources
+C:\Users\takis\OneDrive\Documents\My_Coding_Projects\LearningCPP\StudentLoanCalculatorVB\obj\Debug\net6.0-windows\StudentLoanCalculatorVB.Form2.resources
+C:\Users\takis\OneDrive\Documents\My_Coding_Projects\LearningCPP\StudentLoanCalculatorVB\obj\Debug\net6.0-windows\StudentLoanCalculatorVB.Form3.resources
+C:\Users\takis\OneDrive\Documents\My_Coding_Projects\LearningCPP\StudentLoanCalculatorVB\obj\Debug\net6.0-windows\StudentLoanCalculatorVB.vbproj.GenerateResource.cache
+C:\Users\takis\OneDrive\Documents\My_Coding_Projects\LearningCPP\StudentLoanCalculatorVB\obj\Debug\net6.0-windows\StudentLoanCalculatorVB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\takis\OneDrive\Documents\My_Coding_Projects\LearningCPP\StudentLoanCalculatorVB\obj\Debug\net6.0-windows\StudentLoanCalculatorVB.AssemblyInfoInputs.cache
+C:\Users\takis\OneDrive\Documents\My_Coding_Projects\LearningCPP\StudentLoanCalculatorVB\obj\Debug\net6.0-windows\StudentLoanCalculatorVB.AssemblyInfo.vb
+C:\Users\takis\OneDrive\Documents\My_Coding_Projects\LearningCPP\StudentLoanCalculatorVB\obj\Debug\net6.0-windows\StudentLoanCalculatorVB.vbproj.CoreCompileInputs.cache
+C:\Users\takis\OneDrive\Documents\My_Coding_Projects\LearningCPP\StudentLoanCalculatorVB\obj\Debug\net6.0-windows\StudentLoanCalculatorVB.dll
+C:\Users\takis\OneDrive\Documents\My_Coding_Projects\LearningCPP\StudentLoanCalculatorVB\obj\Debug\net6.0-windows\refint\StudentLoanCalculatorVB.dll
+C:\Users\takis\OneDrive\Documents\My_Coding_Projects\LearningCPP\StudentLoanCalculatorVB\obj\Debug\net6.0-windows\StudentLoanCalculatorVB.pdb
+C:\Users\takis\OneDrive\Documents\My_Coding_Projects\LearningCPP\StudentLoanCalculatorVB\obj\Debug\net6.0-windows\StudentLoanCalculatorVB.genruntimeconfig.cache
+C:\Users\takis\OneDrive\Documents\My_Coding_Projects\LearningCPP\StudentLoanCalculatorVB\obj\Debug\net6.0-windows\ref\StudentLoanCalculatorVB.dll
+C:\Users\takis\OneDrive\Documents\My_Old_IT_Projects\AD assignment\Code\StudentLoanCalculatorVB\bin\Debug\net6.0-windows\StudentLoanCalculatorVB.exe
+C:\Users\takis\OneDrive\Documents\My_Old_IT_Projects\AD assignment\Code\StudentLoanCalculatorVB\bin\Debug\net6.0-windows\StudentLoanCalculatorVB.deps.json
+C:\Users\takis\OneDrive\Documents\My_Old_IT_Projects\AD assignment\Code\StudentLoanCalculatorVB\bin\Debug\net6.0-windows\StudentLoanCalculatorVB.runtimeconfig.json
+C:\Users\takis\OneDrive\Documents\My_Old_IT_Projects\AD assignment\Code\StudentLoanCalculatorVB\bin\Debug\net6.0-windows\StudentLoanCalculatorVB.dll
+C:\Users\takis\OneDrive\Documents\My_Old_IT_Projects\AD assignment\Code\StudentLoanCalculatorVB\bin\Debug\net6.0-windows\StudentLoanCalculatorVB.pdb
+C:\Users\takis\OneDrive\Documents\My_Old_IT_Projects\AD assignment\Code\StudentLoanCalculatorVB\obj\Debug\net6.0-windows\StudentLoanCalculatorVB.vbproj.AssemblyReference.cache
+C:\Users\takis\OneDrive\Documents\My_Old_IT_Projects\AD assignment\Code\StudentLoanCalculatorVB\obj\Debug\net6.0-windows\StudentLoanCalculatorVB.Form1.resources
+C:\Users\takis\OneDrive\Documents\My_Old_IT_Projects\AD assignment\Code\StudentLoanCalculatorVB\obj\Debug\net6.0-windows\StudentLoanCalculatorVB.Form2.resources
+C:\Users\takis\OneDrive\Documents\My_Old_IT_Projects\AD assignment\Code\StudentLoanCalculatorVB\obj\Debug\net6.0-windows\StudentLoanCalculatorVB.Form3.resources
+C:\Users\takis\OneDrive\Documents\My_Old_IT_Projects\AD assignment\Code\StudentLoanCalculatorVB\obj\Debug\net6.0-windows\StudentLoanCalculatorVB.vbproj.GenerateResource.cache
+C:\Users\takis\OneDrive\Documents\My_Old_IT_Projects\AD assignment\Code\StudentLoanCalculatorVB\obj\Debug\net6.0-windows\StudentLoanCalculatorVB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\takis\OneDrive\Documents\My_Old_IT_Projects\AD assignment\Code\StudentLoanCalculatorVB\obj\Debug\net6.0-windows\StudentLoanCalculatorVB.AssemblyInfoInputs.cache
+C:\Users\takis\OneDrive\Documents\My_Old_IT_Projects\AD assignment\Code\StudentLoanCalculatorVB\obj\Debug\net6.0-windows\StudentLoanCalculatorVB.AssemblyInfo.vb
+C:\Users\takis\OneDrive\Documents\My_Old_IT_Projects\AD assignment\Code\StudentLoanCalculatorVB\obj\Debug\net6.0-windows\StudentLoanCalculatorVB.vbproj.CoreCompileInputs.cache
+C:\Users\takis\OneDrive\Documents\My_Old_IT_Projects\AD assignment\Code\StudentLoanCalculatorVB\obj\Debug\net6.0-windows\StudentLoanCalculatorVB.dll
+C:\Users\takis\OneDrive\Documents\My_Old_IT_Projects\AD assignment\Code\StudentLoanCalculatorVB\obj\Debug\net6.0-windows\refint\StudentLoanCalculatorVB.dll
+C:\Users\takis\OneDrive\Documents\My_Old_IT_Projects\AD assignment\Code\StudentLoanCalculatorVB\obj\Debug\net6.0-windows\StudentLoanCalculatorVB.pdb
+C:\Users\takis\OneDrive\Documents\My_Old_IT_Projects\AD assignment\Code\StudentLoanCalculatorVB\obj\Debug\net6.0-windows\StudentLoanCalculatorVB.genruntimeconfig.cache
+C:\Users\takis\OneDrive\Documents\My_Old_IT_Projects\AD assignment\Code\StudentLoanCalculatorVB\obj\Debug\net6.0-windows\ref\StudentLoanCalculatorVB.dll
